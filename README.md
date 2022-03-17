@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Hanif Bin Ahmad Nahan
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Python for Deep Learning
+- 👀 I’m interested in Machine Learning and Game Development
+- 🌱 I’m currently learning Python for Machine Learning and Unity for Game Development
 - 📫 How to reach me (Email: muhammad.hanif.mh639@gmail.com)
 
 <!---
