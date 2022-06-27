@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Muhammad Hanif Bin Ahmad Nahan
-- 👀 I’m interested in Web Development, Machine Learning and Game Development
-- 🌱 I’m currently learning Python for Machine Learning and Unity for Game Development
+- 👀 I’m interested in Web and Mobile App Development
+- 🌱 Knowledgeable in few programming language such as Python, JavaScript, C#, & Dart
+- 🖥  Familiar with Framework such as React and Flutter
 - 📫 How to reach me (Email: muhammad.hanif.mh639@gmail.com)
 
 <!---
